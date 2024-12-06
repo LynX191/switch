@@ -1,0 +1,4 @@
+# _config.yml for GitHub Pages with custom docs folder
+
+source: docs
+destination: docs/_site
